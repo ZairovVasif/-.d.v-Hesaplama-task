@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/bin/Debug/net7.0/E.D.V hesablama
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/bin/Debug/net7.0/E.D.V hesablama.deps.json
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/bin/Debug/net7.0/E.D.V hesablama.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/bin/Debug/net7.0/E.D.V hesablama.dll
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/bin/Debug/net7.0/E.D.V hesablama.pdb
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.dll
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/refint/E.D.V hesablama.dll
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.pdb
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/E.D.V hesablama.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/E.D.V hesablama/E.D.V hesablama/obj/Debug/net7.0/ref/E.D.V hesablama.dll
